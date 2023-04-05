@@ -18,9 +18,9 @@ public class QueuePractice {
 
         System.out.println(Food);
 
-        Food.remove("Rice");
+        Food.remove("Rice"); //remove queue แบบ specific
 
-        System.out.println(Food); //remove queue แบบ specific
+        System.out.println(Food);
 
         Food.add("Steak");
         Food.add("Dumpling");
